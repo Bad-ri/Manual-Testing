@@ -3,11 +3,11 @@
 Welcome to a wonderland of various manual testing projects, all rigorously guided by a comprehensive Software Testing Life Cycle (STLC)!
 ![1626519721506](https://github.com/Bad-ri/Manual-Testing/assets/74131474/47777dd1-fbe9-457c-97d5-d36b99d8dc2b)
 
-# Here's how we ensure top-notch quality:
-## STLC Process:
-![Software Testing Life Cycle](https://github.com/Bad-ri/Manual-Testing/assets/74131474/d450f86b-9966-4c5b-8926-eb120b6907b6)
 
 ## STLC Dashboard:
+![Screenshot (327)](https://github.com/Bad-ri/Manual-Testing/assets/74131474/ae4bd7e0-5543-4924-8d11-42d614befa2e)
+
+## Test Cases:
 ![Screenshot (266)](https://github.com/Bad-ri/Manual-Testing/assets/74131474/c06790ee-eb14-4fb1-9b3b-aba814fbd63f)
 
 Our interactive dashboard lets you peek into the heart of our testing process:
